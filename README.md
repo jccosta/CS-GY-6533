@@ -62,8 +62,8 @@ This course is based on the computer graphics course designed by Professor Danie
 # Compilation Instructions
 
 ```bash
-git clone --recursive https://github.com/NYUCG2017/assignment-N-username # --recursive flag is necessary for dependencies
-cd assignment-N-username
+git clone --recursive https://github.com/jccosta/CS-GY-6533/Assignment_N # --recursive flag is necessary for dependencies
+cd Assignment-N
 mkdir build
 cd build
 cmake ../ # re-run cmake when you add/delete source files
