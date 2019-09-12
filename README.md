@@ -7,13 +7,18 @@
 *Cláudio Silva (lead instructor)*
 
 370 Jay Street, room 1153 
+
 [csilva@nyu.edu](mailto:csilva@nyu.edu)
+
 Office hours: Friday, 2-4pm, or by appointment.
+
 
 *Jonathas Costa*
 
 370 Jay Street, room 1140
+
 [jccosta@nyu.edu](mailto:jccosta@nyu.edu)
+
 Office hours: Friday, 2-4pm, or by appointment.
 
 ### Lectures:
