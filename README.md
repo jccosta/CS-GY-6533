@@ -37,7 +37,7 @@ December 18, 2015 by A K Peters/CRC Press
 Textbook - 734 Pages - 541 Color
 ISBN 9781482229394
 
-##Acknowledgement: 
+### Acknowledgement: 
 This course is based on the computer graphics course designed by Professor Daniele Panozzo (NYU).
 
 ## Assignments
