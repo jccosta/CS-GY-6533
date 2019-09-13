@@ -1,0 +1,3 @@
+[submodule "ext/eigen"]
+	path = ext/eigen
+	url = https://jccosta@github.com/jccosta/eigen-git-mirror.git
