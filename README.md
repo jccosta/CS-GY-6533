@@ -62,7 +62,7 @@ This course is based on the computer graphics course designed by Professor Danie
 # Compilation Instructions
 
 ```bash
-git clone --recursive https://github.com/jccosta/CS-GY-6533/Assignment_N # --recursive flag is necessary for dependencies
+git clone --recursive https://github.com/jccosta/CS-GY-6533 # --recursive flag is necessary for dependencies
 cd Assignment-N
 mkdir build
 cd build
