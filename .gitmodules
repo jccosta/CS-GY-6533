@@ -1,3 +1,9 @@
 [submodule "ext/eigen"]
 	path = ext/eigen
 	url = https://jccosta@github.com/jccosta/eigen-git-mirror.git
+[submodule "ext/glew"]
+	path = ext/glew
+	url = https://jccosta@github.com/jccosta/glew.git
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://jccosta@github.com/jccosta/glfw.git
