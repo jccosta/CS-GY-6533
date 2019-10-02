@@ -42,8 +42,6 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/../ext/glfw" "glfw")
 include_directories("${CMAKE_CURRENT_SOURCE_DIR}/../ext/glfw/include")
 set(LIBRARIES "glfw" ${GLFW_LIBRARIES})
 
-#list(APPEND LIBRARIES ${OPENGL_LIBRARIES})
-
 ### On windows, you also need glew
 if((UNIX AND NOT APPLE) OR WIN32)
   set(GLEW_INSTALL OFF CACHE BOOL " " FORCE)
@@ -62,4 +60,4 @@ file(GLOB SOURCES
 )
 
 add_executable(${PROJECT_NAME}_bin ${SOURCES})
-target_link_libraries(${PROJECT_NAME}_bin ${LIBRARIES} ${OpenGL_LIBRARY})
+target_link_libraries(${PROJECT_NAME}_bin ${LIBRARIES} ${OPENGL_LIBRARIES})
