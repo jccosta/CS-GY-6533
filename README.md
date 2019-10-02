@@ -53,7 +53,7 @@ This course is based on the computer graphics course designed by Professor Danie
 
 * [Assignment 1: Ray Tracing](Assignment_1/requirements/Assignment-1_Ray_Tracing.pdf) [(latex)](Assignment_1/requirements/Assignment-1_Ray_Tracing.tex)
 
-* [Assignment 2: 2D Vector Graphics Editor]
+* [Assignment 2: 2D Vector Graphics Editor](Assignment_2/requirements/Assignment-2_2D_Editor.pdf) [(latex)](Assignment_2/requirements/Assignment-2_2D_Editor.tex)
 
 * [Assignment 3: 3D Scene Editor]
 
