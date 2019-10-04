@@ -63,7 +63,7 @@ This course is based on the computer graphics course designed by Professor Danie
 
 ```bash
 git clone --recursive https://github.com/jccosta/CS-GY-6533 # --recursive flag is necessary for dependencies
-cd Assignment-N
+cd Assignment_N
 mkdir build
 cd build
 cmake ../ # re-run cmake when you add/delete source files
