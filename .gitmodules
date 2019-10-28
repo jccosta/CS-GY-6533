@@ -7,6 +7,3 @@
 [submodule "ext/glfw"]
 	path = ext/glfw
 	url = https://jccosta@github.com/jccosta/glfw.git
-[submodule "ext/glm"]
-	path = ext/glm
-	url = https://jccosta@github.com/jccosta/glm.git
